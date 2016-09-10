@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Project LIst</string>
+    <string name="my_projects">My Nanodegree projects:</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="stock_hawk">Stock Hawk</string>
+    <string name="build_it_bigger">Build It Bigger</string>
+    <string name="make_your_app_material">Make Your App Material</string>
+    <string name="go_uibquitous">Go Uibquitous</string>
+    <string name="capstone">Capstone</string>
+    <string name="launch_info">This will launch \"%1$s\" app </string>
 </resources>
